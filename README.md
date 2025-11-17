@@ -1,5 +1,9 @@
 # TrajectoryPredictor
 
+## Environment Setup
+
+conda create --name finalproj python=3.11
+
 ## Data Extraction
 
 1. From [kaggle](https://www.kaggle.com/datasets/aryashah2k/stanford-drone-dataset?resource=download) download the archive.zip
