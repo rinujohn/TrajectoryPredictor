@@ -1,5 +1,6 @@
 .vscode
 *.mp4
+*.mov
 *.txt
 *.jpg
 *.pt
