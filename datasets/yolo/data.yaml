@@ -1,0 +1,16 @@
+# Dataset root directory relative to the yolov5 directory
+path: yolo
+
+# Train/val/test sets: specify directories, *.txt files, or lists
+train: images/train # 128 images for training
+val: images/val # 128 images for validation
+test: iamges/test # Optional path to test images
+
+# Classes (example using 80 COCO classes)
+names:
+  0: Biker
+  1: Pedestrian
+  2: Skater
+  3: Cart
+  4: Car
+  5: Bus

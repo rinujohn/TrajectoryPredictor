@@ -4,3 +4,6 @@
 *.txt
 *.jpg
 *.pt
+*.cache
+runs/*
+*.zip
